@@ -1,5 +1,10 @@
+# Projeto realizado no Bootcamp SPTech Desenvolvimento Fullstack na Digital Innovation
 
-## Live Coding - Instruções e auxílios para rodar o projeto
+## Construindo um ChatbotFit no Telegram com JavaScript e NodeJS
+
+#### Este é um projeto de “Chatbot no Telegram com JavaScript e NodeJS” ao qual podemos praticar e aplicar os conceitos de integração e buscas de vídeos de exercícios físicos no YouTube utilizando uma plataforma de entendimento de linguagem natural chamada DialogFlow. Assim podemos demonstrar toda nossa capacidade criativa para transformar a base do projeto em um desenvolvimento inovador.
+
+### Instruções para instalar e rodar o projeto:
 
 ### 1) Para instalar o NodeJS
 - [https://github.com/nvm-sh/nvm](https://github.com/nvm-sh/nvm) (Linux e Mac) - Mais fácil para gerenciar as versões do NodeJS na máquina
